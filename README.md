@@ -1,5 +1,7 @@
 # 🌍 Global Markets Explorer — MSCI 2023
 
+https://hentask.github.io/Global-Markets-Explorer/
+
 An interactive, single-page educational dashboard comparing four major MSCI equity indices: **USA**, **Europe**, **AC Asia**, and **Brazil**. Built for an introductory business finance course to make index data accessible and visually engaging.
 
 ---
